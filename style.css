@@ -1,0 +1,45 @@
+body {
+  }
+
+  #reviews-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+.element {
+    border: 2px solid #000000;
+    padding: 10px;
+    margin: 5px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.sorting {
+    text-align: center;
+    margin-bottom: 10px;
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+.form{
+    width: 500px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid #000000;
+    margin-left: 500px;
+    
+}
+
+.submit{
+    text-align: center;
+    margin:10px;
+}
+  
